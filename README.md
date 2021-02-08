@@ -12,3 +12,10 @@ Oh NO I did not want to do this!
 Lets try this again
 
 Git reset does not go back to an older commit
+
+
+THESE CHANGES SHOULD NOT AFFECT THE MAIN BRANCH!!!
+
+AGAIN, I don't think we are affecting the main.
+
+check 123
